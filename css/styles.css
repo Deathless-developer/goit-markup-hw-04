@@ -129,6 +129,7 @@ address {
   background-position: center;
   padding: 188px 0;
   max-width: 1440px;
+  margin: 0 auto;
 }
 
 .main_title {
@@ -234,6 +235,7 @@ address {
   color: #f4f4fd;
   max-width: 264px;
   margin-bottom: 16px;
+  margin-top: 0;
 }
 img {
   display: block;
@@ -243,7 +245,6 @@ img {
   margin: 0 auto;
   padding-left: 15px;
   padding-right: 15px;
-  margin-right: 120px;
 }
 
 .information {
@@ -415,6 +416,7 @@ li:hover .div-text {
   letter-spacing: 0.02em;
   color: #ffffff;
   margin-bottom: 16px;
+  margin-top: 0;
 }
 .icon-class {
   display: flex;
